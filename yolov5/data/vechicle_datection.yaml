@@ -1,0 +1,13 @@
+train: ./dataset/train/images
+val: ./dataset/valid/images
+test: ./dataset/test/images
+
+nc: 15
+names: ['Ambulance', 'Auto', 'Bicycle', 'Bike', 'Bus', 'Car', 'Motorcycle', 'Truck', 'auto-rickshaw', 'bus', 'car', 'lorry', 'mini truck', 'motorcycle', 'truck']
+
+roboflow:
+  workspace: yolo-trials
+  project: vehicle-detection-eckrb
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolo-trials/vehicle-detection-eckrb/dataset/4
