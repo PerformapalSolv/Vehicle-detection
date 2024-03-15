@@ -69,8 +69,6 @@ git clone <本项目>
 
 <img src="https://yitongtuchuang.oss-cn-beijing.aliyuncs.com/image/image-20240315224810848.png" alt="image-20240315224810848" style="zoom:50%;" />
 
-<img src="https://yitongtuchuang.oss-cn-beijing.aliyuncs.com/image/image-20240315225112886.png" alt="image-20240315225112886" style="zoom: 33%;" />
-
 ### 遇到的问题
 
 1.raise NotImplementedError("cannot instantiate %r on your system" NotImplementedError: cannot instantiate 'PosixPath' on your system
