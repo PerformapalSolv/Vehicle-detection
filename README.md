@@ -41,7 +41,7 @@ To deal with 《Computer Vision》 coursework, I  utilize Yolov5 neural network 
 
 完成这两点，就从v1升级到v2；之后打算尝试挑战yolov5网络架构，使其更适配车辆识别。
 
-### 简单介绍：如何使用本项目(V1.0)
+### 简单介绍：如何使用本项目(V1.0 )
 
 1.
 
@@ -51,7 +51,7 @@ git clone <本项目>
 
 2.
 
-激活相关python环境，进入Yolo文件夹下：
+激活相关python环境，进入Yolo文件夹下：python base_ui.py
 
 <img src="https://yitongtuchuang.oss-cn-beijing.aliyuncs.com/image/image-20240315214141803.png" alt="image-20240315214141803" style="zoom:50%;" />
 
